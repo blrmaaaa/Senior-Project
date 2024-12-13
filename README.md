@@ -26,7 +26,7 @@ Diagnocare Central is an interactive and user-friendly web application designed 
 This structure clearly outlines the purpose of each file in your project. 
 
 
-2. ## Features
+ ## Features
 
 1. **Symptom Checker Chatbot**: 
    - AI-powered chatbot to analyze symptoms and suggest possible conditions.
@@ -45,7 +45,9 @@ This structure clearly outlines the purpose of each file in your project.
 5. **Doctor Profiles & Emergency Contacts**:
    - Details of medical professionals and important hotline numbers.
 
-3.## How to Access
+
+
+## How to Access
 
 This project is a static website. To access it:
 
@@ -56,7 +58,8 @@ This project is a static website. To access it:
 
 
 
-4. ## License
+
+ ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
